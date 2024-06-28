@@ -2,15 +2,15 @@
 <CONFIG>
   <ProjectSession>
     <Version Value="12"/>
-    <BuildModes Active="Default"/>
+    <BuildModes Active="Windows"/>
     <Units>
       <Unit>
         <Filename Value="wpack.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="16"/>
+        <TopLine Value="15"/>
         <CursorPos X="14" Y="33"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
