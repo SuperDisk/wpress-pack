@@ -2,4 +2,5 @@
 backup/
 lib/
 wpack
+wpack-mac
 *.exe

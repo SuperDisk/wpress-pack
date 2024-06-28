@@ -7,5 +7,5 @@ If you need to extract a .wpress archive, use [Felix Haus' tool.](https://github
 # Usage
 
 ```sh
-./wpress <input-dir> <output>.wpress
+./wpack <input-dir> <output>.wpress
 ```
