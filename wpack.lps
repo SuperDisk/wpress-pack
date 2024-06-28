@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="wpack.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="16"/>
+        <CursorPos X="14" Y="33"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="wpack.lpr"/>
+        <Caret Line="6" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="wpack.lpr"/>
+        <Caret Line="16" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="wpack.lpr"/>
+        <Caret Line="13" Column="59"/>
+      </Position>
+      <Position>
+        <Filename Value="wpack.lpr"/>
+        <Caret Line="30" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="wpack.lpr"/>
+        <Caret Line="20" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="wpack.lpr"/>
+        <Caret Line="18" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="wpack.lpr"/>
+        <Caret Line="19" Column="23" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="wpack.lpr"/>
+        <Caret Line="41" Column="38" TopLine="14"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <LaunchingApplication Use="True"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="/usr/bin/xterm -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
