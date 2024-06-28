@@ -4,6 +4,10 @@ This is a mega-simple tool to create .wpress archive files compatible with the [
 
 If you need to extract a .wpress archive, use [Felix Haus' tool.](https://github.com/ofhouse/wpress-extract)
 
+# Download
+
+https://github.com/SuperDisk/wpress-pack/releases/latest
+
 # Usage
 
 ```sh
